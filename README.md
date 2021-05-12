@@ -11,3 +11,8 @@ Below are the list of problems that I answered (in order of answering):
 5. [Has Alternating Bits](hasAlternatingBits.py) (05/05)
 6. [Combination](combine.py) (05/06)
 7. [Implement Queue Using Stacks](queueUsingStack.py) (05/07)
+8. [Post Order Traversal (Iterative)](postorderTraversalIterative.py) (05/08)
+9. [Decrypt String from Alphabet to Integer Mapping](freqAlphabets.py) (05/09)
+10. [Complement of Base 10 Integer](bitwiseComplement.py) (05/10)
+11. [Product of Numbers](productOfNumbers.py) (05/11)
+12. [2D Matrix Reshape](matrixReshape.py) (05/12)
