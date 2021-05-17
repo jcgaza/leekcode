@@ -16,3 +16,8 @@ Below are the list of problems that I answered (in order of answering):
 10. [Complement of Base 10 Integer](bitwiseComplement.py) (05/10)
 11. [Product of Numbers](productOfNumbers.py) (05/11)
 12. [2D Matrix Reshape](matrixReshape.py) (05/12)
+13. [Maximum Depth of Binary Tree](maxDepthBinaryTree.py) (05/13)
+14. [Distributed Candies](distributedCandies.py) (05/14)
+15. [Height Checker](heightChecker.py) (05/15)
+16. [Browser History](browserHistory.py) (05/16)
+17. [Three Consecutive Odss](threeConsecutiveOdds.py) (05/17)
